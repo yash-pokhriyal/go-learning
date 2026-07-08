@@ -50,12 +50,13 @@ This repository contains my Go (Golang) learning journey, including concepts, co
   - `WithDeadline()`
   - `WithValue()`
   - `ctx.Done()` & `ctx.Err()`
+- Go Testing (`go test`)
 
 ---
 
 ## 🎯 Next Goals
 
-- Go Testing (`go test`)
+
 - `net/http`
 - JSON Encoding & Decoding
 - REST API Development
