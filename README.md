@@ -33,38 +33,10 @@ This repository contains my Go (Golang) learning journey, including concepts, co
 - `defer`
 - `panic` & `recover`
 - `context.Context`
-
----
-
-## 📅 Latest Progress
-
-### Day 3
-- Implemented Go error handling examples
-- Practiced `errors.New()` and `fmt.Errorf()`
-- Learned the Go error handling pattern (`if err != nil`)
-- Explored `defer`, `panic`, and `recover`
-- Learned `context.Context`
-  - `Background()`
-  - `WithCancel()`
-  - `WithTimeout()`
-  - `WithDeadline()`
-  - `WithValue()`
-  - `ctx.Done()` & `ctx.Err()`
 - Go Testing (`go test`)
-
----
-
-## 🎯 Next Goals
-
-
-- `net/http`
-- JSON Encoding & Decoding
-- REST API Development
-- PostgreSQL Integration
-- GORM
-- JWT Authentication
-- Docker
-- Redis
+- HTTP Basics
+- HTTP Request & Response
+- HTTP GET Method
 
 ---
 
