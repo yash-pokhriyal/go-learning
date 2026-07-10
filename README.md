@@ -37,6 +37,8 @@ This repository contains my Go (Golang) learning journey, including concepts, co
 - HTTP Basics
 - HTTP Request & Response
 - HTTP GET Method
+- Routing
+- Http methods
 
 ---
 
